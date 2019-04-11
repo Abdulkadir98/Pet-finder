@@ -23,7 +23,9 @@
     "prettier": "^1.16.4"
   },
   "dependencies": {
+    "@reach/router": "^1.2.1",
     "petfinder-client": "^1.0.2",
+    "reach": "^1.0.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
   }
